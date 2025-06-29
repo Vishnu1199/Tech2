@@ -1,0 +1,5 @@
+package com.Tech2.bookingrequest.SecurityConfig;
+
+public class SecurityConfiguration {
+
+}
